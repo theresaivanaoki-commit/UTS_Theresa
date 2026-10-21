@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 SISTEM INTEGRASI BUSINESS INTELLIGENCE & DATA MINING
-UAS Business Intelligence / Data Mining — Universitas Timor (UNIMOR)
+UTS Business Intelligence / Data Mining — Universitas Timor (UNIMOR)
 Penyusun : Theresa Ivanna Oki (51230079) — Kelas VII A / Teknologi Informasi
 
 Cara menjalankan:
@@ -31,7 +31,7 @@ warnings.filterwarnings("ignore")
 # KONFIGURASI HALAMAN
 # ============================================================
 st.set_page_config(
-    page_title="UAS BI & Data Mining - Theresa Ivanna Oki",
+    page_title="UTS BI & Data Mining - Theresa Ivanna Oki",
     layout="wide",
     page_icon="📊",
     initial_sidebar_state="expanded",
